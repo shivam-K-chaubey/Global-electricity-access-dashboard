@@ -37,7 +37,7 @@ The dashboard helps visualize:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
